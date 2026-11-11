@@ -51,7 +51,7 @@ Transformando dados em informações e conhecimento.
 ## 📫 Contato
 
 - GitHub: [@viitorxsj-rgb](https://github.com/viitorxsj-rgb)
-
+- Email: viitorxsj@gmail.com
 ---
 
 <div align="center">
